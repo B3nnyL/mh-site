@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mh-site",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}
